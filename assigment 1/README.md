@@ -37,7 +37,6 @@
 - Investigated CSRF mitigation techniques such as anti-CSRF tokens and SameSite cookies.
 
 ### 7. XSS
-**Link:** [XSS](https://tryhackme.com/room/axss)  
 **Summary:**
 - Explored different types of XSS vulnerabilities, including stored, reflected, and DOM-based XSS.
 - Learned how attackers inject malicious scripts into web applications.
