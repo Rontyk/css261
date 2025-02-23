@@ -4,7 +4,7 @@
 **Summary:**  
 - Investigated different types of SQL Injection vulnerabilities.
 - Discovered and exploited various SQL injection methods.
-- Successfully obtained all necessary flags.
+- Faced difficulties with some tasks due to their complexity.
 
 ### 2. SQL Injection
 **Summary:**  
