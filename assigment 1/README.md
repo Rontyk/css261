@@ -4,7 +4,7 @@
 **Summary:**  
 - Investigated different types of SQL Injection vulnerabilities.
 - Discovered and exploited various SQL injection methods.
-- Successfully obtained all necessary flags.
+- Faced difficulties with some tasks due to their complexity.
 
 ### 2. SQL Injection
 **Summary:**  
@@ -37,7 +37,6 @@
 - Investigated CSRF mitigation techniques such as anti-CSRF tokens and SameSite cookies.
 
 ### 7. XSS
-**Link:** [XSS](https://tryhackme.com/room/axss)  
 **Summary:**
 - Explored different types of XSS vulnerabilities, including stored, reflected, and DOM-based XSS.
 - Learned how attackers inject malicious scripts into web applications.
